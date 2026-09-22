@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Harsh Kumar — Developer Portfolio
+=======
+Harsh Vardhan — Developer Portfolio
+>>>>>>> 1bd6b1a (Update Readme)
 
 A modern, responsive developer portfolio built with React.js and Vite. The portfolio showcases my technical skills, projects, experience, certifications, and contact information.
 
@@ -221,4 +225,8 @@ GitHub: https://github.com/haxzh
 
 If you find this portfolio useful or interesting, consider giving the repository a ⭐ on GitHub.
 
+<<<<<<< HEAD
 Made with ❤️ using React.js and Vite.
+=======
+Made with ❤️ using React.js and Vite.
+>>>>>>> 1bd6b1a (Update Readme)
